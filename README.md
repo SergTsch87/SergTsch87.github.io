@@ -4,8 +4,13 @@
 
 ## Translate EN -> UK
 
-Переклад статті:
-https://www.virgin.com/virgin-unite/business-innovation/i-was-first-farmer-us-use-drone
+Original files of PDF (on GitHub)
+[GitHub](https://github.com/SergTsch87/SergTsch87.github.io/tree/master/Documents/myWork/projects/Portfolio/virgin.com-I was the first farmer in the US to use a drone.pdf)
 
-My file with translate:
-https://github.com/SergTsch87/SergTsch87.github.io/tree/master/Documents/myWork/projects/Portfolio/Translate.pdf
+
+Translation of the article in PDF format (on virgin.com)
+[Virgin](https://www.virgin.com/virgin-unite/business-innovation/i-was-first-farmer-us-use-drone)
+
+
+My file with translate
+[GitHub](https://github.com/SergTsch87/SergTsch87.github.io/tree/master/Documents/myWork/projects/Portfolio/Translate.pdf)
